@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## M018 Basic Algebra for Finite Math Fall II 2020 Lecture Notes
 
-You can use the [editor on GitHub](https://github.com/agoodlad-instructor-notes/m018-fall-ii-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+During the first fall 2020 eight week period, I was an assistant instructor for the Indiana University class Basic Algebra for Finite Math (M018). This class is a two credit prep course for Finite Math. In this class, we learn basic sets, basic counting, basic probability, algebra on linear equations, inequalities, and linear programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are my lecture notes for my M018 instructor lectures for this class:
 
-### Markdown
+IMPORTANT NOTE: There are also notes for my 2020 Fall II period. These [Fall II notes](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020) are very similar to the Fall I notes except more polished on the explanations but with less homework explanations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Sets**
 
-```markdown
-Syntax highlighted code block
+-[Sets Lesson 1 (8/25-8/27 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/sets-lesson-1.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+-[Sets Lesson 2 (8/27-8/31 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/sets-lesson-2.pdf)
 
-- Bulleted
-- List
+-[Sets Lesson 3 (8/31-9/1 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/sets-lesson-3.pdf)
 
-1. Numbered
-2. List
+-[Sets Lesson 4 (9/1-9/3 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/sets-lesson-4.pdf)
 
-**Bold** and _Italic_ and `Code` text
+**Probability and Counting**
 
-[Link](url) and ![Image](src)
-```
+-[Probability and Counting Lesson 1 (9/3-9/8 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/probability-and-counting-lesson-1.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-[Probability and Counting Lesson 2 (9/7-9/9 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/probability-and-counting-lesson-2.pdf)
 
-### Jekyll Themes
+-[Probability and Counting Lesson 3 (9/8-9/13 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/probability-and-counting-lesson-3.pdf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agoodlad-instructor-notes/m018-fall-ii-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-[Probability and Counting Lesson 4 (9/9-9/16 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/probability-and-counting-lesson-4.pdf)
 
-### Support or Contact
+**Linear Equations**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-[Linear Equations Lesson 1 (9/15-9/22 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/linear-equations-lesson-1.pdf)
+
+-[Linear Equations Lesson 2 (9/22-9/28 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/linear-equations-lesson-2.pdf)
+
+-[Linear Equations Lesson 3 (9/29-10/1 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/linear-equations-lesson-3.pdf)
+
+-[Linear Equations Lesson 4 (10/1-10/6 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/linear-equations-lesson-4.pdf)
+
+**Inequalities**
+
+-[Inequalities Lesson 1 (10/5-10/8 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/inequalities-lesson-1.pdf)
+
+-[Inequalities Lesson 2 (10/7-10/8 lectures)](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020/inequalities-lesson-2.pdf)
