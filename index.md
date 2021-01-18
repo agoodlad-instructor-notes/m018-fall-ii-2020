@@ -4,7 +4,7 @@ During the second fall 2020 eight week period, I was an assistant instructor for
 
 Here are my lecture notes for my M018 instructor lectures for this class:
 
-IMPORTANT NOTE: There are also notes for the 2020 Fall I period when I also instructed the class. These [Fall I notes](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020) are very similar to these Fall II notes except less polished on the explanations but with more homework explanations.
+IMPORTANT NOTE: There are additionally notes for the 2020 Fall I period when I also instructed the class. These [Fall I notes](https://agoodlad-instructor-notes.github.io/m018-fall-i-2020) are very similar to these Fall II notes except less polished on the explanations but with more homework explanations.
 
 **Linear Equations**
 
